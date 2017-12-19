@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public ${1:name}(${2:param}): ${3:any} {
+  return $2;
+}
+]]></content>
+    <tabTrigger>fun</tabTrigger>
+    <scope>source.js, source.jsx, source.ts, source.tsx</scope>
+</snippet>

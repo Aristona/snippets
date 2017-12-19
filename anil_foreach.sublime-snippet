@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:arr}.forEach(${2:x} => console.log(${2:x}))${3:;}
+]]></content>
+    <tabTrigger>fo</tabTrigger>
+    <scope>source.js, source.jsx, source.ts, source.tsx</scope>
+</snippet>

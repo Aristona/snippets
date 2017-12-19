@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:arr}.filter(${2:x} => ${2:x} ${3:=== true})${4:;}
+]]></content>
+    <tabTrigger>filt</tabTrigger>
+    <scope>source.js, source.jsx, source.ts, source.tsx</scope>
+</snippet>

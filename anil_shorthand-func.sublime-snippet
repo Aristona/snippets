@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+(${1:res}) => {
+  return $1;
+})${2:;}
+]]></content>
+    <tabTrigger>cb</tabTrigger>
+    <scope>source.js, source.jsx, source.ts, source.tsx</scope>
+</snippet>
